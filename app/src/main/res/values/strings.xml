@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cannon Ball</string>
+    <string name="win">Kau menang!</string>
+    <string name="lose">Kau tewas!</string>
+    <string name="time_remaining_format">Tinggal %.1f saat.</string>
+    <string name="results_format">Tembak %1$d kali dalam %2$.1f saat.</string>
+    <string name="next">Main lagi</string>
+</resources>
